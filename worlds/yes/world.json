@@ -1,0 +1,121 @@
+{
+  "name": "yes",
+  "title": "Candlekeep but with less people",
+  "description": "",
+  "authors": [],
+  "flags": {},
+  "version": "1.0.0",
+  "scripts": [],
+  "esmodules": [],
+  "styles": [],
+  "languages": [],
+  "packs": [
+    {
+      "entity": "Item",
+      "label": "DDB Spells",
+      "name": "ddb-yes-spells",
+      "package": "world",
+      "path": "packs/ddb-yes-spells.db",
+      "system": "dnd5e",
+      "private": false,
+      "absPath": "C:\\Users\\grego\\AppData\\Local\\FoundryVTT\\Data\\worlds\\yes\\packs\\ddb-yes-spells.db"
+    },
+    {
+      "entity": "Item",
+      "label": "DDB Items",
+      "name": "ddb-yes-items",
+      "package": "world",
+      "path": "packs/ddb-yes-items.db",
+      "system": "dnd5e",
+      "private": false,
+      "absPath": "C:\\Users\\grego\\AppData\\Local\\FoundryVTT\\Data\\worlds\\yes\\packs\\ddb-yes-items.db"
+    },
+    {
+      "entity": "Actor",
+      "label": "DDB Monsters",
+      "name": "ddb-yes-monsters",
+      "package": "world",
+      "path": "packs/ddb-yes-monsters.db",
+      "system": "dnd5e",
+      "private": false,
+      "absPath": "C:\\Users\\grego\\AppData\\Local\\FoundryVTT\\Data\\worlds\\yes\\packs\\ddb-yes-monsters.db"
+    },
+    {
+      "entity": "Item",
+      "label": "DDB Feats",
+      "name": "ddb-yes-feats",
+      "package": "world",
+      "path": "packs/ddb-yes-feats.db",
+      "system": "dnd5e",
+      "private": false,
+      "absPath": "C:\\Users\\grego\\AppData\\Local\\FoundryVTT\\Data\\worlds\\yes\\packs\\ddb-yes-feats.db"
+    },
+    {
+      "entity": "Item",
+      "label": "DDB Class Features",
+      "name": "ddb-yes-class-features",
+      "package": "world",
+      "path": "packs/ddb-yes-class-features.db",
+      "system": "dnd5e",
+      "private": false,
+      "absPath": "C:\\Users\\grego\\AppData\\Local\\FoundryVTT\\Data\\worlds\\yes\\packs\\ddb-yes-class-features.db"
+    },
+    {
+      "entity": "Item",
+      "label": "DDB Classes",
+      "name": "ddb-yes-classes",
+      "package": "world",
+      "path": "packs/ddb-yes-classes.db",
+      "system": "dnd5e",
+      "private": false,
+      "absPath": "C:\\Users\\grego\\AppData\\Local\\FoundryVTT\\Data\\worlds\\yes\\packs\\ddb-yes-classes.db"
+    },
+    {
+      "entity": "Item",
+      "label": "DDB Racial Traits",
+      "name": "ddb-yes-racial-traits",
+      "package": "world",
+      "path": "packs/ddb-yes-racial-traits.db",
+      "system": "dnd5e",
+      "private": false,
+      "absPath": "C:\\Users\\grego\\AppData\\Local\\FoundryVTT\\Data\\worlds\\yes\\packs\\ddb-yes-racial-traits.db"
+    },
+    {
+      "entity": "Item",
+      "label": "DDB Races",
+      "name": "ddb-yes-races",
+      "package": "world",
+      "path": "packs/ddb-yes-races.db",
+      "system": "dnd5e",
+      "private": false,
+      "absPath": "C:\\Users\\grego\\AppData\\Local\\FoundryVTT\\Data\\worlds\\yes\\packs\\ddb-yes-races.db"
+    },
+    {
+      "entity": "Item",
+      "label": "DDB Override",
+      "name": "ddb-yes-override",
+      "package": "world",
+      "path": "packs/ddb-yes-override.db",
+      "system": "dnd5e",
+      "private": false,
+      "absPath": "C:\\Users\\grego\\AppData\\Local\\FoundryVTT\\Data\\worlds\\yes\\packs\\ddb-yes-override.db"
+    },
+    {
+      "entity": "RollTable",
+      "label": "DDB Tables",
+      "name": "ddb-yes-tables",
+      "package": "world",
+      "path": "packs/ddb-yes-tables.db",
+      "system": "dnd5e",
+      "private": false
+    }
+  ],
+  "system": "dnd5e",
+  "dependencies": [],
+  "socket": false,
+  "protected": false,
+  "coreVersion": "0.8.9",
+  "resetKeys": false,
+  "safeMode": false,
+  "systemVersion": "1.5.2"
+}

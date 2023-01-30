@@ -1,0 +1,18 @@
+{"key":"ddb-importer.entity-trait-compendium","value":"\"world.ddb-class-racial-traits\"","_id":"7VeOjQXZkF0DjJTx"}
+{"key":"ddb-importer.entity-feature-compendium","value":"\"world.ddb-class-class-features\"","_id":"8rAcQLrW9i25N1eO"}
+{"key":"ddb-importer.entity-class-compendium","value":"\"world.ddb-class-classes\"","_id":"DDKBzBQkgNmfS2Iw"}
+{"key":"ddb-importer.entity-spell-compendium","value":"\"world.ddb-class-spells\"","_id":"F3a5x4RPGXpOSUUR"}
+{"_id":"UDFFlQlromKhD8o9","key":"ddb-importer.cobalt-cookie","value":"\"eyJhbGciOiJkaXIiLCJlbmMiOiJBMTI4Q0JDLUhTMjU2In0..NXXdMOYljzZ69ChXKPOGsA.SQEFHXg7Kdqe_-ezgfWer2jyu0xhckDAI6vlFoz9QpF5wwW7FP70IfxgIQbsXXME.f9dFGpxgXOPU2aQjch5SYA\""}
+{"_id":"ZqiXJuqQNlIkPCa7","key":"dd-import.importSettings","value":"{\"source\":\"data\",\"extension\":\"png\",\"bucket\":\"\",\"region\":\"\",\"path\":\"worlds/class\",\"offset\":0.1,\"fidelity\":1,\"multiImageMode\":\"g\",\"webpConversion\":true,\"wallsAroundFiles\":true}"}
+{"_id":"bUcUTFhlXOriL3Bb","key":"ddb-importer.beta-key","value":"\"\""}
+{"key":"core.moduleConfiguration","value":"{\"ddb-importer\":true,\"dice-so-nice\":true,\"dramatic-rolls\":true,\"resetdoorsandfog\":true,\"token-hud-art-button\":true,\"simple-dice-roller\":true,\"dd-import\":true}","_id":"eQXOod5RTOVZj2fX"}
+{"key":"ddb-importer.entity-item-compendium","value":"\"world.ddb-class-items\"","_id":"g27avliXfpNcfgQJ"}
+{"_id":"hCeIa81ns4HxSFdx","key":"ddb-importer.campaign-id","value":"\"https://www.dndbeyond.com/campaigns/1690820\""}
+{"key":"ddb-importer.entity-feat-compendium","value":"\"world.ddb-class-feats\"","_id":"iO3GWCJ5wqtdRaQt"}
+{"key":"ddb-importer.entity-race-compendium","value":"\"world.ddb-class-races\"","_id":"ihbqf93wCCuFf1hG"}
+{"key":"core.permissions","value":"{\"BROADCAST_AUDIO\":[2,3,4],\"BROADCAST_VIDEO\":[2,3,4],\"ACTOR_CREATE\":[3,4],\"DRAWING_CREATE\":[2,3,4],\"ITEM_CREATE\":[3,4],\"FILES_BROWSE\":[2,3,4],\"FILES_UPLOAD\":[3,4],\"JOURNAL_CREATE\":[2,3,4],\"MACRO_SCRIPT\":[1,2,3,4],\"MESSAGE_WHISPER\":[1,2,3,4],\"SETTINGS_MODIFY\":[3,4],\"SHOW_CURSOR\":[1,2,3,4],\"SHOW_RULER\":[1,2,3,4],\"TEMPLATE_CREATE\":[1,2,3,4],\"TOKEN_CREATE\":[3,4],\"TOKEN_CONFIGURE\":[2,3,4],\"WALL_DOORS\":[1,2,3,4]}","_id":"jsywby9QWedRaRhL"}
+{"key":"ddb-importer.entity-monster-compendium","value":"\"world.ddb-class-monsters\"","_id":"nb90E5OeXFBXND3d"}
+{"key":"core.time","value":"0","_id":"oibeDhur14Z8jd2P"}
+{"_id":"u5Sbg4EG1ZqP6uYj","key":"ddb-importer.patreon-tier","value":"null"}
+{"_id":"zLJRc2yEzg6E4OMd","key":"ddb-importer.image-upload-directory","value":"\"[data] Tokens\""}
+{"_id":"jsywby9QWedRaRhL","key":"core.permissions","value":"{\"BROADCAST_AUDIO\":[2,3,4],\"BROADCAST_VIDEO\":[2,3,4],\"FILES_BROWSE\":[2,3,4],\"TOKEN_CONFIGURE\":[2,3,4],\"JOURNAL_CREATE\":[2,3,4],\"TEMPLATE_CREATE\":[1,2,3,4],\"ACTOR_CREATE\":[3,4],\"ITEM_CREATE\":[3,4],\"TOKEN_CREATE\":[3,4],\"SHOW_CURSOR\":[1,2,3,4],\"SHOW_RULER\":[1,2,3,4],\"SETTINGS_MODIFY\":[3,4],\"WALL_DOORS\":[1,2,3,4],\"FILES_UPLOAD\":[3,4],\"DRAWING_CREATE\":[2,3,4],\"MACRO_SCRIPT\":[1,2,3,4],\"MESSAGE_WHISPER\":[1,2,3,4]}"}

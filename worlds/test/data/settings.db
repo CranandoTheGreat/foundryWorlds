@@ -1,0 +1,17 @@
+{"key":"ddb-importer.entity-item-compendium","value":"\"world.ddb-test-items\"","_id":"2nzcce7ryBWGSOoQ"}
+{"key":"ddb-importer.beta-key","value":"\"\"","_id":"4KoceqZkCfpUAa2o"}
+{"key":"ddb-importer.entity-spell-compendium","value":"\"world.ddb-test-spells\"","_id":"4YizN46gA8Pepz0R"}
+{"key":"ddb-importer.image-upload-directory","value":"\"[data] Tokens\"","_id":"8Pi7rbpOn7eXFVQl"}
+{"key":"ddb-importer.cobalt-cookie","value":"\"eyJhbGciOiJkaXIiLCJlbmMiOiJBMTI4Q0JDLUhTMjU2In0..NXXdMOYljzZ69ChXKPOGsA.SQEFHXg7Kdqe_-ezgfWer2jyu0xhckDAI6vlFoz9QpF5wwW7FP70IfxgIQbsXXME.f9dFGpxgXOPU2aQjch5SYA\"","_id":"AukYeR18V1mIFfCT"}
+{"_id":"Dn61JX8pmjSuPeu8","key":"core.moduleConfiguration","value":"{\"ddb-importer\":true,\"dd-import\":true,\"token-hud-art-button\":true,\"resetdoorsandfog\":true}"}
+{"key":"core.permissions","value":"{\"BROADCAST_AUDIO\":[2,3,4],\"BROADCAST_VIDEO\":[2,3,4],\"ACTOR_CREATE\":[3,4],\"DRAWING_CREATE\":[2,3,4],\"ITEM_CREATE\":[3,4],\"FILES_BROWSE\":[2,3,4],\"FILES_UPLOAD\":[3,4],\"JOURNAL_CREATE\":[2,3,4],\"MACRO_SCRIPT\":[1,2,3,4],\"MESSAGE_WHISPER\":[1,2,3,4],\"SETTINGS_MODIFY\":[3,4],\"SHOW_CURSOR\":[1,2,3,4],\"SHOW_RULER\":[1,2,3,4],\"TEMPLATE_CREATE\":[1,2,3,4],\"TOKEN_CREATE\":[3,4],\"TOKEN_CONFIGURE\":[2,3,4],\"WALL_DOORS\":[1,2,3,4]}","_id":"EB1jTxCFRlNNwlAe"}
+{"key":"core.time","value":"0","_id":"IvHNTAgKMKFvd1lJ"}
+{"key":"ddb-importer.entity-feature-compendium","value":"\"world.ddb-test-class-features\"","_id":"LDFVaAkmUaykIvUH"}
+{"key":"ddb-importer.entity-race-compendium","value":"\"world.ddb-test-races\"","_id":"LEU3oMLsWe1Q4hnm"}
+{"key":"ddb-importer.entity-class-compendium","value":"\"world.ddb-test-classes\"","_id":"QXQVfNGZDQtZHsUD"}
+{"key":"ddb-importer.patreon-tier","value":"null","_id":"cvOuuwQLoBPwqGwF"}
+{"key":"ddb-importer.entity-feat-compendium","value":"\"world.ddb-test-feats\"","_id":"d7W0QmBekOtDzXqx"}
+{"_id":"jlNx0YNmYfoWWRCT","key":"dd-import.importSettings","value":"{\"source\":\"data\",\"extension\":\"png\",\"bucket\":\"\",\"region\":\"\",\"path\":\"worlds/test\",\"offset\":0.1,\"fidelity\":1,\"multiImageMode\":\"g\",\"webpConversion\":true,\"wallsAroundFiles\":true}"}
+{"key":"ddb-importer.entity-monster-compendium","value":"\"world.ddb-test-monsters\"","_id":"rIbRO2H9mMZIQh4A"}
+{"key":"ddb-importer.entity-trait-compendium","value":"\"world.ddb-test-racial-traits\"","_id":"x7xT3jVuEagKwY3p"}
+{"key":"ddb-importer.campaign-id","value":"\"\"","_id":"y7YuSRwfimvDx2i6"}

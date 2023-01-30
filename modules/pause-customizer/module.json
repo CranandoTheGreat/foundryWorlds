@@ -1,0 +1,46 @@
+{
+    "name": "pause-customizer",
+    "title": "Pause Customizer",
+    "description": "A small module to customize the pause image, animation style and pause text.",
+    "license": "MIT",
+    "library": "false",
+    "authors": [
+        {
+            "name": "Marc Straube",
+            "email": "email@marcstraube.de",
+            "discord": "durag-c-walker#8327",
+            "url": "https://github.com/marcstraube"
+        }
+    ],
+    "version": "1.0.0",
+    "compatibility": {
+        "minimum": "10",
+        "verified": "10",
+        "maximum": "10"
+    },
+    "scripts": [
+        "scripts/module.js"
+    ],
+    "languages": [
+        {
+            "lang": "en",
+            "name": "English",
+            "path": "lang/en.json"
+        },
+        {
+            "lang": "de",
+            "name": "Deutsch",
+            "path": "lang/de.json"
+        }
+    ],
+    "relationships": {},
+    "url": "https://github.com/marcstraube/foundryvtt-pause-customizer",
+    "manifest": "https://github.com/marcstraube/foundryvtt-pause-customizer/releases/latest/download/module.json",
+    "download": "https://github.com/marcstraube/foundryvtt-pause-customizer/releases/download/1.0.0/module.zip",
+    "bugs": "https://github.com/marcstraube/foundryvtt-pause-customizer/issues",
+    "changelog": "https://github.com/marcstraube/foundryvtt-pause-customizer/releases",
+    "readme": "https://github.com/marcstraube/foundryvtt-pause-customizer/blob/master/README.md",
+    "flags": {
+        "allowBugReporter": true
+    }
+}

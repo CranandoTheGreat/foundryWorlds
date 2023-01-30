@@ -1,0 +1,158 @@
+{
+  "title": "Persona",
+  "version": "1.0.0",
+  "packs": [
+    {
+      "label": "DDB Spells",
+      "name": "ddb-persona-spells",
+      "path": "packs/ddb-persona-spells.db",
+      "system": "dnd5e",
+      "private": false,
+      "type": "Item",
+      "flags": {}
+    },
+    {
+      "label": "DDB Items",
+      "name": "ddb-persona-items",
+      "path": "packs/ddb-persona-items.db",
+      "system": "dnd5e",
+      "private": false,
+      "type": "Item",
+      "flags": {}
+    },
+    {
+      "label": "DDB Class Features",
+      "name": "ddb-persona-class-features",
+      "path": "packs/ddb-persona-class-features.db",
+      "system": "dnd5e",
+      "private": false,
+      "type": "Item",
+      "flags": {}
+    },
+    {
+      "label": "DDB Classes",
+      "name": "ddb-persona-classes",
+      "path": "packs/ddb-persona-classes.db",
+      "system": "dnd5e",
+      "private": false,
+      "type": "Item",
+      "flags": {}
+    },
+    {
+      "label": "DDB Racial Traits",
+      "name": "ddb-persona-racial-traits",
+      "path": "packs/ddb-persona-racial-traits.db",
+      "system": "dnd5e",
+      "private": false,
+      "type": "Item",
+      "flags": {}
+    },
+    {
+      "label": "DDB Feats",
+      "name": "ddb-persona-feats",
+      "path": "packs/ddb-persona-feats.db",
+      "system": "dnd5e",
+      "private": false,
+      "type": "Item",
+      "flags": {}
+    },
+    {
+      "label": "DDB Races",
+      "name": "ddb-persona-races",
+      "path": "packs/ddb-persona-races.db",
+      "system": "dnd5e",
+      "private": false,
+      "type": "Item",
+      "flags": {}
+    },
+    {
+      "label": "DDB Monsters",
+      "name": "ddb-persona-monsters",
+      "path": "packs/ddb-persona-monsters.db",
+      "system": "dnd5e",
+      "private": false,
+      "type": "Actor",
+      "flags": {}
+    },
+    {
+      "label": "DDB Override",
+      "name": "ddb-persona-override",
+      "path": "packs/ddb-persona-override.db",
+      "system": "dnd5e",
+      "private": false,
+      "type": "Item",
+      "flags": {}
+    },
+    {
+      "label": "DDB Tables",
+      "name": "ddb-persona-tables",
+      "path": "packs/ddb-persona-tables.db",
+      "system": "dnd5e",
+      "private": false,
+      "type": "RollTable",
+      "flags": {}
+    },
+    {
+      "type": "Item",
+      "label": "DDB Backgrounds",
+      "name": "ddb-persona-ddb-backgrounds",
+      "path": "packs/ddb-persona-ddb-backgrounds.db",
+      "system": "dnd5e",
+      "private": false,
+      "flags": {},
+      "package": "world",
+      "id": "world.ddb-persona-ddb-backgrounds",
+      "packageType": "world",
+      "packageName": "persona",
+      "index": []
+    },
+    {
+      "type": "Item",
+      "label": "DDB Subclasses",
+      "name": "ddb-persona-ddb-subclasses",
+      "path": "packs/ddb-persona-ddb-subclasses.db",
+      "system": "dnd5e",
+      "private": false,
+      "flags": {},
+      "package": "world",
+      "id": "world.ddb-persona-ddb-subclasses",
+      "packageType": "world",
+      "packageName": "persona",
+      "index": []
+    },
+    {
+      "type": "Actor",
+      "label": "DDB Vehicles",
+      "name": "ddb-persona-ddb-vehicles",
+      "path": "packs/ddb-persona-ddb-vehicles.db",
+      "system": "dnd5e",
+      "private": false,
+      "flags": {},
+      "package": "world",
+      "id": "world.ddb-persona-ddb-vehicles",
+      "packageType": "world",
+      "packageName": "persona",
+      "index": []
+    },
+    {
+      "type": "Adventure",
+      "label": "DDB Adventures",
+      "name": "ddb-persona-ddb-adventures",
+      "path": "packs/ddb-persona-ddb-adventures.db",
+      "system": "dnd5e",
+      "private": false,
+      "flags": {},
+      "package": "world"
+    }
+  ],
+  "system": "dnd5e",
+  "coreVersion": "10.291",
+  "resetKeys": false,
+  "safeMode": false,
+  "systemVersion": "2.0.3",
+  "id": "persona",
+  "compatibility": {
+    "verified": "10.291",
+    "minimum": "10"
+  }
+}

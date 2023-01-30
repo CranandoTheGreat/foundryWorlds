@@ -1,0 +1,18 @@
+{"_id":"ESZJJoV16Kd9VNfx","name":"Gear","flags":{},"role":1,"permissions":{},"password":"","color":"#8bcc28","hotbar":{}}
+{"_id":"IagcZ95n1MFR9bxT","name":"Kasuke","flags":{},"role":1,"permissions":{},"password":"","color":"#2928cc","hotbar":{}}
+{"_id":"JDMtcIIB0tZBCUWx","name":"Wexer Yorkenic","flags":{},"role":1,"permissions":{},"password":"","color":"#6b28cc","hotbar":{}}
+{"_id":"P44HyuaYJgNAVqFY","name":"Zephyr Khalen Rey","flags":{},"role":1,"permissions":{},"password":"","color":"#ccc228","hotbar":{}}
+{"_id":"VAcp8JYtdfAJ6YTJ","name":"Heribert Hornwood","flags":{},"role":1,"permissions":{},"password":"","color":"#5028cc","hotbar":{}}
+{"_id":"cs90sg13MjigpFQ6","name":"Handsome Blue","flags":{},"role":1,"permissions":{},"password":"","color":"#cc2858","hotbar":{}}
+{"_id":"jZkReKU7Y635YvxC","name":"BingBang","flags":{},"role":1,"permissions":{},"password":"","color":"#b0cc28","hotbar":{}}
+{"_id":"orzcxqE649ZpBFpd","name":"Polaris Zion","flags":{},"role":1,"permissions":{},"password":"","color":"#287dcc","hotbar":{}}
+{"_id":"qgxMtc5pxuwif4xW","name":"CoochiPanoochi","flags":{},"role":1,"permissions":{},"password":"","color":"#cc289c","hotbar":{}}
+{"_id":"qjldzZCjykduuQsm","name":"Gamemaster","flags":{"dice-so-nice":{"welcomeMessageShown":true,"appearance":{"labelColor":"#FFFFFF","diceColor":"#cc2881","outlineColor":"#cc2881","edgeColor":"#cc2881","texture":"marble","material":"metal","font":"auto","colorset":"bloodmoon","system":"standard"}}},"role":4,"permissions":{},"password":"","color":"#cc2881","hotbar":{}}
+{"name":"Player 11","flags":{},"role":1,"permissions":{},"color":"#cc2e28","hotbar":{},"_id":"In0fsLJpINa8Q5iV"}
+{"_id":"qjldzZCjykduuQsm","name":"Gamemaster","flags":{"dice-so-nice":{"welcomeMessageShown":true,"appearance":{"labelColor":"#FFFFFF","diceColor":"#cc2881","outlineColor":"#cc2881","edgeColor":"#cc2881","texture":"marble","material":"metal","font":"auto","colorset":"bloodmoon","system":"standard"}}},"role":4,"permissions":{},"password":"1234","color":"#cc2881","hotbar":{}}
+{"_id":"In0fsLJpINa8Q5iV","name":"Camera","flags":{},"role":3,"permissions":{},"password":"1234","color":"#cc2e28","hotbar":{}}
+{"_id":"In0fsLJpINa8Q5iV","name":"Camera","flags":{"dice-so-nice":{"welcomeMessageShown":true}},"role":3,"permissions":{},"password":"1234","color":"#cc2e28","hotbar":{}}
+{"_id":"In0fsLJpINa8Q5iV","name":"Camera","flags":{"dice-so-nice":{"welcomeMessageShown":true}},"role":1,"permissions":{},"password":"1234","color":"#cc2e28","hotbar":{}}
+{"_id":"In0fsLJpINa8Q5iV","name":"Camera","flags":{"dice-so-nice":{"welcomeMessageShown":true,"appearance":{"labelColor":"#FFFFFF","diceColor":"#cc2e28","outlineColor":"#cc2e28","edgeColor":"#cc2e28","texture":"metal","material":"metal","font":"auto","colorset":"bloodmoon","system":"standard"}}},"role":1,"permissions":{},"password":"1234","color":"#cc2e28","hotbar":{}}
+{"_id":"In0fsLJpINa8Q5iV","name":"Camera","flags":{"dice-so-nice":{"welcomeMessageShown":true,"appearance":{"labelColor":"#FFFFFF","diceColor":"#cc2e28","outlineColor":"#cc2e28","edgeColor":"#cc2e28","texture":"metal","material":"metal","font":"auto","colorset":"bloodmoon","system":"standard"}}},"role":1,"permissions":{},"password":"1234","color":"#cc2e28","hotbar":{}}
+{"_id":"In0fsLJpINa8Q5iV","name":"Camera","flags":{"dice-so-nice":{"welcomeMessageShown":true,"appearance":{"labelColor":"#FFFFFF","diceColor":"#cc2e28","outlineColor":"#cc2e28","edgeColor":"#cc2e28","texture":"metal","material":"metal","font":"auto","colorset":"bloodmoon","system":"standard"}}},"role":1,"permissions":{},"password":"1234","color":"#cc2e28","hotbar":{}}

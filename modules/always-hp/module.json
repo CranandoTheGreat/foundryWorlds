@@ -1,0 +1,47 @@
+{
+  "title": "Always HP",
+  "description": "We're always updating HP, add a window to make it easier to adjust that",
+  "version": "10.4",
+  "authors": [
+    {
+      "name": "IronMonk",
+      "discord": "ironmonk88#4075",
+      "flags": {}
+    }
+  ],
+  "languages": [
+    {
+      "lang": "en",
+      "name": "English",
+      "path": "lang/en.json",
+      "flags": {}
+    },
+    {
+      "lang": "ja",
+      "name": "日本語",
+      "path": "lang/ja.json",
+      "flags": {}
+    },
+    {
+      "lang": "pl",
+      "name": "Polish",
+      "path": "lang/pl.json",
+      "flags": {}
+    }
+  ],
+  "esmodules": [
+    "alwayshp.js"
+  ],
+  "styles": [
+    "css/alwayshp.css"
+  ],
+  "url": "https://github.com/ironmonk88/always-hp",
+  "download": "https://github.com/ironmonk88/always-hp/archive/10.4.zip",
+  "manifest": "https://github.com/ironmonk88/always-hp/releases/latest/download/module.json",
+  "bugs": "https://github.com/ironmonk88/always-hp/issues",
+  "id": "always-hp",
+  "compatibility": {
+    "minimum": "9",
+    "verified": "10"
+  }
+}

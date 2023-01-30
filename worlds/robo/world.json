@@ -1,0 +1,151 @@
+{
+  "title": "Robo's World",
+  "version": "1.0.0",
+  "packs": [
+    {
+      "label": "DDB Spells",
+      "name": "ddb-robo-spells",
+      "path": "packs/ddb-robo-spells.db",
+      "system": "dnd5e",
+      "private": false,
+      "type": "Item",
+      "flags": {}
+    },
+    {
+      "label": "DDB Items",
+      "name": "ddb-robo-items",
+      "path": "packs/ddb-robo-items.db",
+      "system": "dnd5e",
+      "private": false,
+      "type": "Item",
+      "flags": {}
+    },
+    {
+      "label": "DDB Class Features",
+      "name": "ddb-robo-class-features",
+      "path": "packs/ddb-robo-class-features.db",
+      "system": "dnd5e",
+      "private": false,
+      "type": "Item",
+      "flags": {}
+    },
+    {
+      "label": "DDB Classes",
+      "name": "ddb-robo-classes",
+      "path": "packs/ddb-robo-classes.db",
+      "system": "dnd5e",
+      "private": false,
+      "type": "Item",
+      "flags": {}
+    },
+    {
+      "label": "DDB Racial Traits",
+      "name": "ddb-robo-racial-traits",
+      "path": "packs/ddb-robo-racial-traits.db",
+      "system": "dnd5e",
+      "private": false,
+      "type": "Item",
+      "flags": {}
+    },
+    {
+      "label": "DDB Feats",
+      "name": "ddb-robo-feats",
+      "path": "packs/ddb-robo-feats.db",
+      "system": "dnd5e",
+      "private": false,
+      "type": "Item",
+      "flags": {}
+    },
+    {
+      "label": "DDB Races",
+      "name": "ddb-robo-races",
+      "path": "packs/ddb-robo-races.db",
+      "system": "dnd5e",
+      "private": false,
+      "type": "Item",
+      "flags": {}
+    },
+    {
+      "label": "DDB Monsters",
+      "name": "ddb-robo-monsters",
+      "path": "packs/ddb-robo-monsters.db",
+      "system": "dnd5e",
+      "private": false,
+      "type": "Actor",
+      "flags": {}
+    },
+    {
+      "label": "DDB Override",
+      "name": "ddb-robo-override",
+      "path": "packs/ddb-robo-override.db",
+      "system": "dnd5e",
+      "private": false,
+      "type": "Item",
+      "flags": {}
+    },
+    {
+      "label": "DDB Tables",
+      "name": "ddb-robo-tables",
+      "path": "packs/ddb-robo-tables.db",
+      "system": "dnd5e",
+      "private": false,
+      "type": "RollTable",
+      "flags": {}
+    },
+    {
+      "label": "DDB Backgrounds",
+      "name": "ddb-robo-backgrounds",
+      "type": "Item",
+      "path": "packs/ddb-robo-backgrounds.db",
+      "system": "dnd5e",
+      "private": false,
+      "flags": {}
+    },
+    {
+      "label": "DDB Subclasses",
+      "name": "ddb-robo-subclasses",
+      "type": "Item",
+      "path": "packs/ddb-robo-subclasses.db",
+      "system": "dnd5e",
+      "private": false,
+      "flags": {}
+    },
+    {
+      "label": "Nier Stuff",
+      "type": "Item",
+      "name": "nier-stuff",
+      "path": "packs/nier-stuff.db",
+      "system": "dnd5e",
+      "private": false,
+      "flags": {}
+    },
+    {
+      "type": "Actor",
+      "label": "DDB Vehicles",
+      "name": "ddb-robo-vehicles",
+      "path": "packs/ddb-robo-vehicles.db",
+      "system": "dnd5e",
+      "private": false,
+      "flags": {}
+    },
+    {
+      "type": "Adventure",
+      "label": "DDB Adventures",
+      "name": "ddb-robo-ddb-adventures",
+      "path": "packs/ddb-robo-ddb-adventures.db",
+      "system": "dnd5e",
+      "private": false,
+      "flags": {}
+    }
+  ],
+  "system": "dnd5e",
+  "coreVersion": "10.291",
+  "resetKeys": false,
+  "safeMode": false,
+  "systemVersion": "2.0.3",
+  "id": "robo",
+  "compatibility": {
+    "minimum": "10",
+    "verified": "10.291"
+  }
+}

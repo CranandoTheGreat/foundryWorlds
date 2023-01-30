@@ -1,0 +1,18 @@
+{"_id":"AWtd1Bk0yrgUn5Qa","key":"dd-import.importSettings","value":"{\"source\":\"data\",\"extension\":\"png\",\"bucket\":\"\",\"region\":\"\",\"path\":\"worlds/deep-within\",\"offset\":0.1,\"fidelity\":1,\"multiImageMode\":\"g\",\"webpConversion\":true,\"wallsAroundFiles\":true}"}
+{"key":"core.time","value":"0","_id":"GzwfSPvZ1ajhcotA"}
+{"key":"ddb-importer.campaign-id","value":"\"https://www.dndbeyond.com/campaigns/1630468\"","_id":"Ocr1pMNIbogPG4EV"}
+{"key":"ddb-importer.entity-feat-compendium","value":"\"world.ddb-deep-within-feats\"","_id":"QEP81eBr4Vr9jAXR"}
+{"key":"ddb-importer.cobalt-cookie","value":"\"eyJhbGciOiJkaXIiLCJlbmMiOiJBMTI4Q0JDLUhTMjU2In0..NXXdMOYljzZ69ChXKPOGsA.SQEFHXg7Kdqe_-ezgfWer2jyu0xhckDAI6vlFoz9QpF5wwW7FP70IfxgIQbsXXME.f9dFGpxgXOPU2aQjch5SYA\"","_id":"VCAw1UKWTmMr4wzR"}
+{"key":"ddb-importer.entity-item-compendium","value":"\"world.ddb-deep-within-items\"","_id":"Wk0NDmGlFsrvXieC"}
+{"key":"ddb-importer.entity-monster-compendium","value":"\"world.ddb-deep-within-monsters\"","_id":"YCa99R0eGUr4wpdp"}
+{"_id":"YdPu0W3lB24dMu2g","key":"core.moduleConfiguration","value":"{\"ddb-importer\":true,\"dd-import\":true,\"token-hud-art-button\":true,\"resetdoorsandfog\":true}"}
+{"key":"ddb-importer.entity-feature-compendium","value":"\"world.ddb-deep-within-class-features\"","_id":"a7LrCvEXdwkKHL5I"}
+{"key":"ddb-importer.entity-race-compendium","value":"\"world.ddb-deep-within-races\"","_id":"amFfQ5MTEXCnw5U4"}
+{"key":"core.chatBubblesPan","value":"false","_id":"avyJnRyM974ZKprx"}
+{"key":"ddb-importer.entity-trait-compendium","value":"\"world.ddb-deep-within-racial-traits\"","_id":"eUfHO9sJhnhTh8UY"}
+{"key":"ddb-importer.image-upload-directory","value":"\"[data] Tokens\"","_id":"eqmpLK5UJkrRME6n"}
+{"key":"ddb-importer.entity-class-compendium","value":"\"world.ddb-deep-within-classes\"","_id":"f44cDs2NHc81q8yR"}
+{"key":"ddb-importer.entity-spell-compendium","value":"\"world.ddb-deep-within-spells\"","_id":"ha4VfL8YYOMA3FmA"}
+{"key":"ddb-importer.beta-key","value":"\"\"","_id":"mqpoxBLO6QGvLKTf"}
+{"key":"core.permissions","value":"{\"BROADCAST_AUDIO\":[2,3,4],\"BROADCAST_VIDEO\":[2,3,4],\"ACTOR_CREATE\":[3,4],\"DRAWING_CREATE\":[2,3,4],\"ITEM_CREATE\":[3,4],\"FILES_BROWSE\":[2,3,4],\"FILES_UPLOAD\":[3,4],\"JOURNAL_CREATE\":[2,3,4],\"MACRO_SCRIPT\":[1,2,3,4],\"MESSAGE_WHISPER\":[1,2,3,4],\"SETTINGS_MODIFY\":[3,4],\"SHOW_CURSOR\":[1,2,3,4],\"SHOW_RULER\":[1,2,3,4],\"TEMPLATE_CREATE\":[1,2,3,4],\"TOKEN_CREATE\":[3,4],\"TOKEN_CONFIGURE\":[2,3,4],\"WALL_DOORS\":[1,2,3,4]}","_id":"oFqgpwjwRynX1pSh"}
+{"key":"ddb-importer.patreon-tier","value":"null","_id":"tJJFvAiu2U67h4Tr"}

@@ -1,0 +1,4 @@
+{"name":"Party","type":"Actor","sort":null,"flags":{},"parent":null,"sorting":"a","color":"#fb4b4b","_id":"3I64ISvMPSvGtJHN"}
+{"name":"Important NPCs","type":"Actor","sort":null,"flags":{},"parent":null,"sorting":"a","color":"#2448ff","_id":"tMlVuAYBgOQEyVDI"}
+{"name":"Monsters","type":"Actor","sort":null,"flags":{},"parent":null,"sorting":"a","color":"","_id":"wEi8VWvscvhLTufY"}
+{"_id":"wfXku24ZmwSgDJqw","name":"Townsfolk","type":"Actor","sort":null,"flags":{},"parent":null,"sorting":"a","color":"#f359e1"}

@@ -1,0 +1,22 @@
+{
+  "title": "Foundry Redirect: Better invitation links",
+  "description": "A module to create static invitation links which look like a regular URL, and don't need to be resent every time your IP address changes",
+  "version": "2.0.3",
+  "scripts": [
+    "scripts/module.js"
+  ],
+  "url": "https://github.com/JarrettSpiker/FoundryRedirectModule",
+  "manifest": "https://github.com/JarrettSpiker/FoundryRedirectModule/releases/latest/download/module.json",
+  "download": "https://github.com/JarrettSpiker/FoundryRedirectModule/releases/download/2.0.3/module.zip",
+  "id": "foundry-redirect",
+  "authors": [
+    {
+      "name": "JarrettSpiker",
+      "flags": {}
+    }
+  ],
+  "compatibility": {
+    "minimum": "0.7.9",
+    "verified": "10"
+  }
+}

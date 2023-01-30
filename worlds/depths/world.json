@@ -1,0 +1,121 @@
+{
+  "name": "depths",
+  "title": "Lawless Depths",
+  "description": "",
+  "authors": [],
+  "flags": {},
+  "version": "1.0.0",
+  "scripts": [],
+  "esmodules": [],
+  "styles": [],
+  "languages": [],
+  "packs": [
+    {
+      "entity": "Item",
+      "label": "DDB Spells",
+      "name": "ddb-depths-spells",
+      "package": "world",
+      "path": "packs/ddb-depths-spells.db",
+      "system": "dnd5e",
+      "private": false,
+      "absPath": "C:\\Users\\grego\\AppData\\Local\\FoundryVTT\\Data\\worlds\\depths\\packs\\ddb-depths-spells.db"
+    },
+    {
+      "entity": "Item",
+      "label": "DDB Items",
+      "name": "ddb-depths-items",
+      "package": "world",
+      "path": "packs/ddb-depths-items.db",
+      "system": "dnd5e",
+      "private": false,
+      "absPath": "C:\\Users\\grego\\AppData\\Local\\FoundryVTT\\Data\\worlds\\depths\\packs\\ddb-depths-items.db"
+    },
+    {
+      "entity": "Item",
+      "label": "DDB Class Features",
+      "name": "ddb-depths-class-features",
+      "package": "world",
+      "path": "packs/ddb-depths-class-features.db",
+      "system": "dnd5e",
+      "private": false,
+      "absPath": "C:\\Users\\grego\\AppData\\Local\\FoundryVTT\\Data\\worlds\\depths\\packs\\ddb-depths-class-features.db"
+    },
+    {
+      "entity": "Item",
+      "label": "DDB Classes",
+      "name": "ddb-depths-classes",
+      "package": "world",
+      "path": "packs/ddb-depths-classes.db",
+      "system": "dnd5e",
+      "private": false,
+      "absPath": "C:\\Users\\grego\\AppData\\Local\\FoundryVTT\\Data\\worlds\\depths\\packs\\ddb-depths-classes.db"
+    },
+    {
+      "entity": "Item",
+      "label": "DDB Racial Traits",
+      "name": "ddb-depths-racial-traits",
+      "package": "world",
+      "path": "packs/ddb-depths-racial-traits.db",
+      "system": "dnd5e",
+      "private": false,
+      "absPath": "C:\\Users\\grego\\AppData\\Local\\FoundryVTT\\Data\\worlds\\depths\\packs\\ddb-depths-racial-traits.db"
+    },
+    {
+      "entity": "Item",
+      "label": "DDB Feats",
+      "name": "ddb-depths-feats",
+      "package": "world",
+      "path": "packs/ddb-depths-feats.db",
+      "system": "dnd5e",
+      "private": false,
+      "absPath": "C:\\Users\\grego\\AppData\\Local\\FoundryVTT\\Data\\worlds\\depths\\packs\\ddb-depths-feats.db"
+    },
+    {
+      "entity": "Item",
+      "label": "DDB Races",
+      "name": "ddb-depths-races",
+      "package": "world",
+      "path": "packs/ddb-depths-races.db",
+      "system": "dnd5e",
+      "private": false,
+      "absPath": "C:\\Users\\grego\\AppData\\Local\\FoundryVTT\\Data\\worlds\\depths\\packs\\ddb-depths-races.db"
+    },
+    {
+      "entity": "Actor",
+      "label": "DDB Monsters",
+      "name": "ddb-depths-monsters",
+      "package": "world",
+      "path": "packs/ddb-depths-monsters.db",
+      "system": "dnd5e",
+      "private": false,
+      "absPath": "C:\\Users\\grego\\AppData\\Local\\FoundryVTT\\Data\\worlds\\depths\\packs\\ddb-depths-monsters.db"
+    },
+    {
+      "entity": "Item",
+      "label": "DDB Override",
+      "name": "ddb-depths-override",
+      "package": "world",
+      "path": "packs/ddb-depths-override.db",
+      "system": "dnd5e",
+      "private": false,
+      "absPath": "C:\\Users\\grego\\AppData\\Local\\FoundryVTT\\Data\\worlds\\depths\\packs\\ddb-depths-override.db"
+    },
+    {
+      "entity": "RollTable",
+      "label": "DDB Tables",
+      "name": "ddb-depths-tables",
+      "package": "world",
+      "path": "packs/ddb-depths-tables.db",
+      "system": "dnd5e",
+      "private": false
+    }
+  ],
+  "system": "dnd5e",
+  "dependencies": [],
+  "socket": false,
+  "protected": false,
+  "coreVersion": "0.8.9",
+  "resetKeys": false,
+  "safeMode": false,
+  "systemVersion": "1.4.3"
+}

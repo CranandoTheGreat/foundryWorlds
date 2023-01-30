@@ -1,0 +1,34 @@
+ <form class={{cssClass}} autocomplete="off" onsubmit="event.preventDefault();">
+    <div class="flexrow display-settings-titles">
+        <label class="flex1" style="text-align: center;"><strong>{{localize "combat-hp-display.actorConverter.from"}}</strong></label>
+        <label class="flex1" style="text-align: center;"><strong>{{localize "combat-hp-display.actorConverter.to"}}</strong></label>
+    </div>
+    <div class="flexcol">
+        {{> "modules/combat-hp-display/templates/partials/convertDisplayValue.hbs" 
+            type="friendly" 
+            title="combat-hp-display.hpDisplaySettings.friendlyTokens"
+            outOfCombatSelected=from.friendly
+            combatSelected=to.friendly
+        }}
+        {{> "modules/combat-hp-display/templates/partials/convertDisplayValue.hbs" 
+            type="neutral" 
+            title="combat-hp-display.hpDisplaySettings.neutralTokens"
+            outOfCombatSelected=from.neutral
+            combatSelected=to.neutral   
+        }}
+        {{> "modules/combat-hp-display/templates/partials/convertDisplayValue.hbs" 
+            type="hostile" 
+            title="combat-hp-display.hpDisplaySettings.hostileTokens"
+            outOfCombatSelected=from.hostile
+            combatSelected=to.hostile 
+        }}
+    </div>
+    <footer>
+        <button id="convert-all" class="menu-element" {{#if this.convertDisabled}}disabled title="{{localize "combat-hp-display.actorConverter.disabledTooltip"}}"{{/if}}>
+            {{localize "combat-hp-display.actorConverter.convertAll"}}
+        </button>
+        <button id="convert-map" class="menu-element" {{#if this.convertDisabled}}disabled title="{{localize "combat-hp-display.actorConverter.disabledTooltip"}}"{{/if}}>
+            {{localize "combat-hp-display.actorConverter.convertMap"}}
+        </button>
+    </footer>
+ </form>

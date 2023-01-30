@@ -1,0 +1,16 @@
+{"_id":"E5rKkabRwWlDHJBo","key":"ddb-importer.image-upload-directory","value":"\"[data] Tokens\""}
+{"key":"core.moduleConfiguration","value":"{\"ddb-importer\":true,\"dice-so-nice\":false,\"dramatic-rolls\":true,\"resetdoorsandfog\":false,\"token-hud-art-button\":true,\"simple-dice-roller\":false,\"dd-import\":true}","_id":"GGiRkC5QcIdxVId0"}
+{"_id":"PLa0E2TUuLfzomnG","key":"ddb-importer.beta-key","value":"\"\""}
+{"key":"ddb-importer.entity-monster-compendium","value":"\"world.ddb-candlekeep-monsters\"","_id":"Sb4yxILJrZET7yUi"}
+{"key":"ddb-importer.entity-spell-compendium","value":"\"world.ddb-candlekeep-spells\"","_id":"TTlPFCWUkb4qT1YN"}
+{"key":"ddb-importer.entity-item-compendium","value":"\"world.ddb-candlekeep-items\"","_id":"V3fJyYYNmFduyOQG"}
+{"_id":"VuxzQyS2KWb3CS5I","key":"ddb-importer.patreon-tier","value":"null"}
+{"key":"ddb-importer.entity-race-compendium","value":"\"world.ddb-candlekeep-races\"","_id":"aCYVDELiVXu7E8Me"}
+{"_id":"dwBp4VE2hWTCFhba","key":"ddb-importer.campaign-id","value":"\"https://www.dndbeyond.com/campaigns/2214019\""}
+{"_id":"frjNbcPieiHg2WcK","key":"ddb-importer.cobalt-cookie","value":"\"eyJhbGciOiJkaXIiLCJlbmMiOiJBMTI4Q0JDLUhTMjU2In0..f5eWd-IVmI-4TKAiayfTdQ.Gy-KLTECNPoV3Yfc6yCsqzU774839YvtRF4kqyVuVxQjXtUf8wS6GgZjkgMe8DZz.3gz2BMcQPZmraau8s1UzOw\""}
+{"key":"core.permissions","value":"{\"BROADCAST_AUDIO\":[2,3,4],\"BROADCAST_VIDEO\":[2,3,4],\"ACTOR_CREATE\":[3,4],\"DRAWING_CREATE\":[2,3,4],\"ITEM_CREATE\":[3,4],\"FILES_BROWSE\":[2,3,4],\"FILES_UPLOAD\":[3,4],\"JOURNAL_CREATE\":[2,3,4],\"MACRO_SCRIPT\":[1,2,3,4],\"MESSAGE_WHISPER\":[1,2,3,4],\"SETTINGS_MODIFY\":[3,4],\"SHOW_CURSOR\":[1,2,3,4],\"SHOW_RULER\":[1,2,3,4],\"TEMPLATE_CREATE\":[1,2,3,4],\"TOKEN_CREATE\":[3,4],\"TOKEN_CONFIGURE\":[2,3,4],\"WALL_DOORS\":[1,2,3,4]}","_id":"hqIdikBIG0uQSCIY"}
+{"key":"ddb-importer.entity-feat-compendium","value":"\"world.ddb-candlekeep-feats\"","_id":"icS5X1Hl1KtIF3yt"}
+{"key":"ddb-importer.entity-trait-compendium","value":"\"world.ddb-candlekeep-racial-traits\"","_id":"mATKLhVrJUCsZdeR"}
+{"key":"ddb-importer.entity-class-compendium","value":"\"world.ddb-candlekeep-classes\"","_id":"wL6hmKDOVS6l3AOP"}
+{"key":"core.time","value":"0","_id":"ySDMzQ9vQxjxoCrA"}
+{"key":"ddb-importer.entity-feature-compendium","value":"\"world.ddb-candlekeep-class-features\"","_id":"zM4WRpslBDmFU2QD"}

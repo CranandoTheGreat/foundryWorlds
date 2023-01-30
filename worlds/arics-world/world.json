@@ -1,0 +1,143 @@
+{
+  "title": "Aric's world",
+  "version": "1.0.0",
+  "packs": [
+    {
+      "label": "DDB Spells",
+      "name": "ddb-arics-world-spells",
+      "type": "Item",
+      "path": "packs/ddb-arics-world-spells.db",
+      "system": "dnd5e",
+      "private": false,
+      "flags": {}
+    },
+    {
+      "label": "DDB Items",
+      "name": "ddb-arics-world-items",
+      "type": "Item",
+      "path": "packs/ddb-arics-world-items.db",
+      "system": "dnd5e",
+      "private": false,
+      "flags": {}
+    },
+    {
+      "label": "DDB Monsters",
+      "name": "ddb-arics-world-monsters",
+      "type": "Actor",
+      "path": "packs/ddb-arics-world-monsters.db",
+      "system": "dnd5e",
+      "private": false,
+      "flags": {}
+    },
+    {
+      "label": "DDB Feats",
+      "name": "ddb-arics-world-feats",
+      "type": "Item",
+      "path": "packs/ddb-arics-world-feats.db",
+      "system": "dnd5e",
+      "private": false,
+      "flags": {}
+    },
+    {
+      "label": "DDB Class Features",
+      "name": "ddb-arics-world-class-features",
+      "type": "Item",
+      "path": "packs/ddb-arics-world-class-features.db",
+      "system": "dnd5e",
+      "private": false,
+      "flags": {}
+    },
+    {
+      "label": "DDB Classes",
+      "name": "ddb-arics-world-classes",
+      "type": "Item",
+      "path": "packs/ddb-arics-world-classes.db",
+      "system": "dnd5e",
+      "private": false,
+      "flags": {}
+    },
+    {
+      "label": "DDB Racial Traits",
+      "name": "ddb-arics-world-racial-traits",
+      "type": "Item",
+      "path": "packs/ddb-arics-world-racial-traits.db",
+      "system": "dnd5e",
+      "private": false,
+      "flags": {}
+    },
+    {
+      "label": "DDB Races",
+      "name": "ddb-arics-world-races",
+      "type": "Item",
+      "path": "packs/ddb-arics-world-races.db",
+      "system": "dnd5e",
+      "private": false,
+      "flags": {}
+    },
+    {
+      "label": "DDB Override",
+      "name": "ddb-arics-world-override",
+      "type": "Item",
+      "path": "packs/ddb-arics-world-override.db",
+      "system": "dnd5e",
+      "private": false,
+      "flags": {}
+    },
+    {
+      "label": "DDB Tables",
+      "name": "ddb-arics-world-tables",
+      "type": "RollTable",
+      "path": "packs/ddb-arics-world-tables.db",
+      "system": "dnd5e",
+      "private": false,
+      "flags": {}
+    },
+    {
+      "label": "DDB Backgrounds",
+      "name": "ddb-arics-world-backgrounds",
+      "type": "Item",
+      "path": "packs/ddb-arics-world-backgrounds.db",
+      "system": "dnd5e",
+      "private": false,
+      "flags": {}
+    },
+    {
+      "label": "DDB Subclasses",
+      "name": "ddb-arics-world-subclasses",
+      "type": "Item",
+      "path": "packs/ddb-arics-world-subclasses.db",
+      "system": "dnd5e",
+      "private": false,
+      "flags": {}
+    },
+    {
+      "label": "DDB Vehicles",
+      "name": "ddb-arics-world-vehicles",
+      "type": "Actor",
+      "path": "packs/ddb-arics-world-vehicles.db",
+      "system": "dnd5e",
+      "private": false,
+      "flags": {}
+    },
+    {
+      "type": "Adventure",
+      "label": "DDB Adventures",
+      "name": "ddb-arics-world-ddb-adventures",
+      "path": "packs/ddb-arics-world-ddb-adventures.db",
+      "system": "dnd5e",
+      "private": false,
+      "flags": {},
+      "package": "world"
+    }
+  ],
+  "system": "dnd5e",
+  "coreVersion": "10.290",
+  "resetKeys": false,
+  "safeMode": false,
+  "systemVersion": "2.0.3",
+  "id": "arics-world",
+  "compatibility": {
+    "minimum": "10",
+    "verified": "10.290"
+  }
+}

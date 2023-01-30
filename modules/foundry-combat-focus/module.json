@@ -1,0 +1,28 @@
+{
+  "title": "Combat Focus",
+  "description": "Shows the chat window on the combat tracker tab as well - no more switching between the two tabs during combat!",
+  "authors": [
+    {
+      "name": "Oromis | David <david.bauske@googlemail.com>",
+      "flags": {}
+    }
+  ],
+  "url": "https://github.com/Oromis/foundry-combat-focus",
+  "license": "https://www.gnu.org/licenses/gpl-3.0.en.html",
+  "readme": "README.md",
+  "bugs": "https://github.com/Oromis/foundry-combat-focus/issues",
+  "version": "1.4.2",
+  "esmodules": [
+    "foundry-combat-focus.js"
+  ],
+  "styles": [
+    "foundry-combat-focus.css"
+  ],
+  "manifest": "https://raw.githubusercontent.com/Oromis/foundry-combat-focus/main/module.json",
+  "download": "https://github.com/Oromis/foundry-combat-focus/releases/download/v1.4.2/foundry-combat-focus-v1.4.2.zip",
+  "id": "foundry-combat-focus",
+  "compatibility": {
+    "minimum": "0.5.0",
+    "verified": "10"
+  }
+}

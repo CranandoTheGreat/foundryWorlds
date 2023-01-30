@@ -1,0 +1,153 @@
+{
+  "name": "monsteys",
+  "title": "Monsteys",
+  "description": "",
+  "authors": [],
+  "flags": {},
+  "version": "1.0.0",
+  "scripts": [],
+  "esmodules": [],
+  "styles": [],
+  "languages": [],
+  "packs": [
+    {
+      "label": "DDB Backgrounds",
+      "name": "ddb-monsteys-backgrounds",
+      "package": "world",
+      "type": "Item",
+      "path": "packs/ddb-monsteys-backgrounds.db",
+      "system": "dnd5e",
+      "entity": "Item",
+      "private": false,
+      "absPath": "C:\\Users\\grego\\AppData\\Local\\FoundryVTT\\Data\\worlds\\monsteys\\packs\\ddb-monsteys-backgrounds.db"
+    },
+    {
+      "label": "DDB Classes",
+      "name": "ddb-monsteys-classes",
+      "package": "world",
+      "type": "Item",
+      "path": "packs/ddb-monsteys-classes.db",
+      "system": "dnd5e",
+      "entity": "Item",
+      "private": false,
+      "absPath": "C:\\Users\\grego\\AppData\\Local\\FoundryVTT\\Data\\worlds\\monsteys\\packs\\ddb-monsteys-classes.db"
+    },
+    {
+      "label": "DDB Subclasses",
+      "name": "ddb-monsteys-subclasses",
+      "package": "world",
+      "type": "Item",
+      "path": "packs/ddb-monsteys-subclasses.db",
+      "system": "dnd5e",
+      "entity": "Item",
+      "private": false,
+      "absPath": "C:\\Users\\grego\\AppData\\Local\\FoundryVTT\\Data\\worlds\\monsteys\\packs\\ddb-monsteys-subclasses.db"
+    },
+    {
+      "label": "DDB Class Features",
+      "name": "ddb-monsteys-class-features",
+      "package": "world",
+      "type": "Item",
+      "path": "packs/ddb-monsteys-class-features.db",
+      "system": "dnd5e",
+      "entity": "Item",
+      "private": false,
+      "absPath": "C:\\Users\\grego\\AppData\\Local\\FoundryVTT\\Data\\worlds\\monsteys\\packs\\ddb-monsteys-class-features.db"
+    },
+    {
+      "label": "DDB Feats",
+      "name": "ddb-monsteys-feats",
+      "package": "world",
+      "type": "Item",
+      "path": "packs/ddb-monsteys-feats.db",
+      "system": "dnd5e",
+      "entity": "Item",
+      "private": false,
+      "absPath": "C:\\Users\\grego\\AppData\\Local\\FoundryVTT\\Data\\worlds\\monsteys\\packs\\ddb-monsteys-feats.db"
+    },
+    {
+      "label": "DDB Items",
+      "name": "ddb-monsteys-items",
+      "package": "world",
+      "type": "Item",
+      "path": "packs/ddb-monsteys-items.db",
+      "system": "dnd5e",
+      "entity": "Item",
+      "private": false,
+      "absPath": "C:\\Users\\grego\\AppData\\Local\\FoundryVTT\\Data\\worlds\\monsteys\\packs\\ddb-monsteys-items.db"
+    },
+    {
+      "label": "DDB Monsters",
+      "name": "ddb-monsteys-monsters",
+      "package": "world",
+      "type": "Actor",
+      "path": "packs/ddb-monsteys-monsters.db",
+      "system": "dnd5e",
+      "entity": "Actor",
+      "private": false,
+      "absPath": "C:\\Users\\grego\\AppData\\Local\\FoundryVTT\\Data\\worlds\\monsteys\\packs\\ddb-monsteys-monsters.db"
+    },
+    {
+      "label": "DDB Races",
+      "name": "ddb-monsteys-races",
+      "package": "world",
+      "type": "Item",
+      "path": "packs/ddb-monsteys-races.db",
+      "system": "dnd5e",
+      "entity": "Item",
+      "private": false,
+      "absPath": "C:\\Users\\grego\\AppData\\Local\\FoundryVTT\\Data\\worlds\\monsteys\\packs\\ddb-monsteys-races.db"
+    },
+    {
+      "label": "DDB Racial Traits",
+      "name": "ddb-monsteys-racial-traits",
+      "package": "world",
+      "type": "Item",
+      "path": "packs/ddb-monsteys-racial-traits.db",
+      "system": "dnd5e",
+      "entity": "Item",
+      "private": false,
+      "absPath": "C:\\Users\\grego\\AppData\\Local\\FoundryVTT\\Data\\worlds\\monsteys\\packs\\ddb-monsteys-racial-traits.db"
+    },
+    {
+      "label": "DDB Spells",
+      "name": "ddb-monsteys-spells",
+      "package": "world",
+      "type": "Item",
+      "path": "packs/ddb-monsteys-spells.db",
+      "system": "dnd5e",
+      "entity": "Item",
+      "private": false,
+      "absPath": "C:\\Users\\grego\\AppData\\Local\\FoundryVTT\\Data\\worlds\\monsteys\\packs\\ddb-monsteys-spells.db"
+    },
+    {
+      "label": "DDB Tables",
+      "name": "ddb-monsteys-tables",
+      "package": "world",
+      "type": "RollTable",
+      "path": "packs/ddb-monsteys-tables.db",
+      "system": "dnd5e",
+      "entity": "RollTable",
+      "private": false,
+      "absPath": "C:\\Users\\grego\\AppData\\Local\\FoundryVTT\\Data\\worlds\\monsteys\\packs\\ddb-monsteys-tables.db"
+    },
+    {
+      "label": "DDB Override",
+      "name": "ddb-monsteys-override",
+      "package": "world",
+      "type": "Item",
+      "path": "packs/ddb-monsteys-override.db",
+      "system": "dnd5e",
+      "entity": "Item",
+      "private": false
+    }
+  ],
+  "system": "dnd5e",
+  "dependencies": [],
+  "socket": false,
+  "protected": false,
+  "coreVersion": "9.269",
+  "resetKeys": false,
+  "safeMode": false,
+  "systemVersion": "1.6.2"
+}

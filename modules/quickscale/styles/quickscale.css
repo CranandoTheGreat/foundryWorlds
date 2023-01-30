@@ -1,0 +1,60 @@
+#quickscale-token-slider,
+#quickscale-tile-slider {
+  height: 6px;
+  box-shadow: 1px 1px 1px #000000, 0px 0px 1px #0d0d0d;
+  background: #999999;
+  border-radius: 3px;
+  border: 1px solid #111;
+  margin-bottom: 22px;
+  top: -5px;
+}
+
+#quickscale-token-slider .noUi-connect,
+#quickscale-tile-slider .noUi-connect {
+  background: #c85019;
+  cursor: ew-resize;
+}
+
+#quickscale-token-slider .noUi-origin,
+#quickscale-tile-slider .noUi-origin {
+  width: 10%;
+  height: 10%;
+}
+
+#quickscale-token-slider .noUi-handle,
+#quickscale-tile-slider .noUi-handle {
+  box-shadow: 1px 1px 1px #000000, 0px 0px 1px #0d0d0d;
+  border: 1px solid #000000;
+  height: 12px;
+  width: 12px;
+  border-radius: 2px;
+  top: -4px;
+  right: -6px;
+  background: #c85019;
+  cursor: grab;
+}
+
+#quickscale-token-slider .noUi-tooltip,
+#quickscale-tile-slider .noUi-tooltip {
+  display: block;
+  position: absolute;
+  border: none;
+  border-radius: 3px;
+  background: url(/ui/denim-dark-090.png) repeat;
+  color: #efefe0;
+  font-size: 0.8em;
+  text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.5);
+  box-shadow: 0 2px 6px 0 rgba(0, 0, 0, 0.4);
+  padding: 1px 5px 1px 5px;
+  text-align: center;
+  white-space: nowrap;
+  transform: translate(-50%, 200%);
+}
+
+/* Hide markers on slider handles */
+#quickscale-token-slider .noUi-handle::before,
+#quickscale-tile-slider .noUi-handle::before,
+#quickscale-token-slider .noUi-handle::after,
+#quickscale-tile-slider .noUi-handle::after {
+  display: none;
+}

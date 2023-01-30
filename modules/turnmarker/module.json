@@ -1,0 +1,60 @@
+{
+  "name": "turnmarker",
+  "title": "Turn Marker",
+  "description": "Displays a (optionally animated) marker on the token who's active turn it is. Originally by Brunhine",
+  "author": "kckaiwei",
+  "authors": [],
+  "url": "https://github.com/kckaiwei/TurnMarker-alt",
+  "flags": {},
+  "version": "2.9.0",
+  "minimumCoreVersion": "9",
+  "compatibleCoreVersion": "9.238",
+  "scripts": [],
+  "esmodules": [
+    "scripts/turnmarker.js"
+  ],
+  "styles": [
+    "css/turnmarker.css"
+  ],
+  "languages": [
+    {
+      "lang": "en",
+      "name": "English",
+      "path": "lang/en.json"
+    },
+    {
+      "lang": "de",
+      "name": "German",
+      "path": "lang/de.json"
+    },
+    {
+      "lang": "ko",
+      "name": "Korean",
+      "path": "lang/ko.json"
+    },
+    {
+      "lang": "ja",
+      "name": " 日本語",
+      "path": "lang/ja.json"
+    },
+    {
+      "lang": "es",
+      "name": "Español",
+      "path": "lang/es.json"
+    },
+    {
+      "lang": "zh-tw",
+      "name": "正體中文",
+      "path": "lang/zh-tw.json"
+    }
+  ],
+  "packs": [],
+  "system": [],
+  "dependencies": [],
+  "socket": true,
+  "manifest": "https://raw.githubusercontent.com/kckaiwei/TurnMarker-alt/v2.9.0/src/module.json",
+  "download": "https://github.com/kckaiwei/TurnMarker-alt/releases/download/v2.9.0/turnmarker.zip",
+  "protected": false,
+  "coreTranslation": false,
+  "library": false
+}
